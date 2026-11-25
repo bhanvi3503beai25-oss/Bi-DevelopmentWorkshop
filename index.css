@@ -1,3 +1,29 @@
-h1{
-    color:brown
+
+body {
+    font-family: Arial;
+    background-color: lightgray;
+    text-align: center;
+}
+
+.profile-card {
+    background-color: white;
+    width: 300px;
+    margin: 100px auto;
+    padding: 20px;
+    border-radius: 15px;
+}
+
+.profile-card img {
+    width: 150px;
+    height: 150px;
+    border-radius: 50%;
+}
+
+button {
+    background-color: green;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
 }
